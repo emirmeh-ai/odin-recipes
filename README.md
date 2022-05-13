@@ -11,12 +11,4 @@ Inače Sys Admin - kome je dosadilo da radi u DC pa sam se okrenuo ovom dijelu :
 
 EN; 
 
-Hi,
-
-This is my frist repo or the secound.
-
-Im board to se all the websites created in WP so im learnign new things.
-
-Im an Sys Admin who is learning new things.
-
-
+This is my frist repo or the second. I'm bored to se all the websites created in WP so i'm learning new things. Im an Sys Admin who is learning new things.
